@@ -20,9 +20,7 @@ h1 {
   text-align: center;
 }
 
-
 article {
-
   width: 400px;
   height: 600px;
   border: 15px solid;
@@ -36,7 +34,6 @@ article {
   margin-top: 10px;
   margin-bottom: 10px;
   color: rgba(32, 32, 32, 0.781);
-  
 }
 
 @media (max-width: 1050px) {
