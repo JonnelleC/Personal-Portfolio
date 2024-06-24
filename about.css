@@ -1,0 +1,24 @@
+body {
+  background-image: url("./images/pic8.jpeg");
+  font-family: "Lora", sans-serif;
+  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-style: normal;
+  color: white;
+}
+
+h1 {
+  font-size: 80;
+}
+
+li {
+  font-size: 30px;
+}
+
+@media (max-width: 1050px) {
+}
+
+@media (min-width: 650px) {
+}
