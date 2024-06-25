@@ -17,6 +17,13 @@ li {
   font-size: 30px;
 }
 
+header {
+  height: 50px;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
+
 @media (max-width: 1050px) {
 }
 
