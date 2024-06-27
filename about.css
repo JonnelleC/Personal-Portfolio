@@ -37,6 +37,10 @@ header a:hover {
   width: 5%;
   font-weight: bolder;
 }
+.fa-solid  {
+  padding-top: 10px;
+  
+  }
 
 @media (max-width: 1050px) {
 }

@@ -58,8 +58,14 @@ header a:hover {
   font-weight: bolder;
 }
 
+.fa-solid  {
+padding-top: 10px;
+
+}
+
 @media (max-width: 1050px) {
 }
 
 @media (min-width: 650px) {
+ 
 }
