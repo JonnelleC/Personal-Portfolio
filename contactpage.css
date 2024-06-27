@@ -53,10 +53,25 @@ button {
 }
 
 header {
+  display: flex;
   height: 50px;
   width: 100%;
   background-color: aliceblue;
   border-radius: 5px;
+  color: black;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+
+header a {
+  padding-top: 10px;
+  color: black;
+}
+
+header a:hover {
+  background-color: white;
+  width: 5%;
+  font-weight: bolder;
 }
 
 @media (max-width: 1050px) {
